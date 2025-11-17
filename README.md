@@ -16,7 +16,7 @@
 
 ```
 generate a Google Form Quiz Script to create a quiz using these question
-101-150
+1-50
 সিরিয়াল + 
 প্রশ্ন + 
 অপশন + 
